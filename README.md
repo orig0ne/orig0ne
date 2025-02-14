@@ -1,4 +1,3 @@
 <h1>Welcome</h1>
 
-> account was created 01.11.2024
-> 16 y.o
+<h6>This GitHub Account was created in 1.11.2024</h6>
